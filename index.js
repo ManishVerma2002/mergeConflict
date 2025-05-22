@@ -1,4 +1,2 @@
-
-
-var a = 25;
-console.log(a);
+var age = 23;
+console.log(age);
